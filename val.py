@@ -385,9 +385,6 @@ def main(opt):
 
 
 if __name__ == "__main__":
-<<<<<<< HEAD
-=======
     # --data data/coco.yaml --img 640 --batch 32 --conf 0.001 --iou 0.7 --device 0 --weights './yolov9-c-converted.pt' --save-json --name yolov9_c_c_640_val
->>>>>>> 934632f4531c36d2b7883e621a6c379bf473fb5c
     opt = parse_opt()
     main(opt)
