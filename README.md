@@ -1,4 +1,5 @@
 # YOLOv9
+<<<<<<< HEAD
 
 Implementation of paper - [YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information](https://arxiv.org/abs/2402.13616)
 
@@ -325,3 +326,5 @@ python caption/train.py --workers 8 --device 0 --batch 32  --data coco.yaml --im
 * [https://github.com/meituan/YOLOv6](https://github.com/meituan/YOLOv6)
 
 </details>
+=======
+>>>>>>> 934632f4531c36d2b7883e621a6c379bf473fb5c
